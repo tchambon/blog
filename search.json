@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "oldindex.html",
+    "href": "oldindex.html",
+    "title": "personnalsite",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thomas Chambon",
+    "section": "",
+    "text": "Thomas Chambon is a Machine Learning research engineer / scientist at Intel Corporation.\nHis work focuses on machine learning that specifically delves into generative models across various subjects such as denoising diffusion, style transfer, texture synthesis, and super resolution."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Thomas Chambon",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\n\nInstitution\nDegree\nDates\n\n\n\n\nINSA de Lyon\nMaster of Computer Science (French title: Diplome d’ingénieur INSA de Lyon, avec félicitations du jury)\nSept 2006 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Thomas Chambon",
+    "section": "Experience",
+    "text": "Experience\n\n\n\n\n\n\n\n\nCompany\nRole\nDates\n\n\n\n\nIntel\nMachine Learning Research Engineer / Scientist\n2023/02 - present\n\n\nUnity3D\nSenior Machine Learning Engineer\n2020/01 - 2023/02\n\n\nFreelance\nMachine Learning Engineer\n2018/09 - 2020/01\n\n\nEDF\nLead Data architect\n2015/08 - 2018/09\n\n\nWavestone\nSenior Data consultant\n2011/04 - 2015/08"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Thomas Chambon",
+    "section": "Publications",
+    "text": "Publications\nIterative 𝛼-(de)Blending: a Minimalist Deterministic Diffusion Model\nEric Heitz, Laurent Belcour and Thomas Chambon\nPublished in ACM SIGGRAPH 2023\nThe Energy Distance as a Replacement for the Reconstruction Loss in Conditional GANs\nEric Heitz and Thomas Chambon\nPublished in JCGT 2023\nPassing Multi-Channel Material Textures to a 3-Channel Loss\nThomas Chambon, Eric Heitz and Laurent Belcour\nPublished in ACM SIGGRAPH Talk 2021\nA Sliced Wasserstein Loss for Neural Texture Synthesis\nEric Heitz, Kenneth Vanhoey, Thomas Chambon, Laurent Belcour\nPublished in CVPR 2021"
+  }
+]
